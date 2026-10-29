@@ -1,0 +1,81 @@
+campaign_id,campaign_name,channel,campaign_type,start_date,end_date,campaign_budget
+CAMP0001,Customer Acquisition 1,Influencer,Customer Acquisition,2024-12-03,2025-03-12,626168.72
+CAMP0002,Retargeting 2,Instagram,Retargeting,2023-03-27,2023-07-08,569579.17
+CAMP0003,Retargeting 3,YouTube,Retargeting,2023-09-22,2023-11-20,289967.71
+CAMP0004,Retargeting 4,Email,Retargeting,2023-11-04,2024-01-16,260983.15
+CAMP0005,Seasonal Sale 5,Facebook,Seasonal Sale,2024-07-30,2024-09-08,717487.22
+CAMP0006,Product Launch 6,YouTube,Product Launch,2023-03-09,2023-04-15,640469.7
+CAMP0007,Brand Awareness 7,YouTube,Brand Awareness,2023-11-15,2024-02-04,291337.91
+CAMP0008,Customer Acquisition 8,Instagram,Customer Acquisition,2023-03-19,2023-05-03,528369.66
+CAMP0009,Retargeting 9,Google Ads,Retargeting,2023-07-25,2023-11-10,232671.8
+CAMP0010,Brand Awareness 10,Facebook,Brand Awareness,2023-06-13,2023-09-11,189851.28
+CAMP0011,Retargeting 11,Influencer,Retargeting,2023-05-06,2023-07-29,535078.38
+CAMP0012,Customer Acquisition 12,Facebook,Customer Acquisition,2024-12-05,2025-03-31,366898.73
+CAMP0013,Seasonal Sale 13,Email,Seasonal Sale,2023-09-30,2023-11-04,633374.57
+CAMP0014,Retargeting 14,Instagram,Retargeting,2023-12-03,2024-02-06,743716.02
+CAMP0015,Product Launch 15,Influencer,Product Launch,2024-05-19,2024-08-16,735599.89
+CAMP0016,Product Launch 16,Google Ads,Product Launch,2023-12-31,2024-03-27,530996.19
+CAMP0017,Product Launch 17,Facebook,Product Launch,2024-12-25,2025-02-08,282872.77
+CAMP0018,Customer Acquisition 18,Email,Customer Acquisition,2023-06-26,2023-09-09,64313.06
+CAMP0019,Retargeting 19,Instagram,Retargeting,2025-02-12,2025-05-26,361793.75
+CAMP0020,Product Launch 20,Google Ads,Product Launch,2025-01-03,2025-02-23,60412.12
+CAMP0021,Product Launch 21,YouTube,Product Launch,2025-08-19,2025-10-30,173791.41
+CAMP0022,Retargeting 22,Email,Retargeting,2024-12-23,2025-04-16,272323.09
+CAMP0023,Customer Acquisition 23,Influencer,Customer Acquisition,2024-10-25,2025-02-18,345087.97
+CAMP0024,Retargeting 24,Influencer,Retargeting,2024-05-13,2024-06-25,235818.81
+CAMP0025,Retargeting 25,YouTube,Retargeting,2023-10-18,2023-12-22,515059.17
+CAMP0026,Retargeting 26,Google Ads,Retargeting,2025-09-11,2025-10-29,306244.96
+CAMP0027,Product Launch 27,Facebook,Product Launch,2023-07-06,2023-08-24,757656.09
+CAMP0028,Seasonal Sale 28,Instagram,Seasonal Sale,2023-10-20,2024-01-16,700788.39
+CAMP0029,Seasonal Sale 29,YouTube,Seasonal Sale,2024-11-22,2025-03-22,648309.14
+CAMP0030,Product Launch 30,YouTube,Product Launch,2025-01-18,2025-02-21,533811.64
+CAMP0031,Retargeting 31,YouTube,Retargeting,2023-08-21,2023-10-21,134513.77
+CAMP0032,Customer Acquisition 32,Instagram,Customer Acquisition,2024-04-21,2024-07-12,677044.88
+CAMP0033,Brand Awareness 33,Google Ads,Brand Awareness,2023-04-27,2023-06-05,344129.88
+CAMP0034,Retargeting 34,YouTube,Retargeting,2024-02-19,2024-04-28,189167.56
+CAMP0035,Brand Awareness 35,Email,Brand Awareness,2024-08-26,2024-09-30,72489.1
+CAMP0036,Product Launch 36,Google Ads,Product Launch,2024-09-22,2024-12-29,187779.92
+CAMP0037,Seasonal Sale 37,Influencer,Seasonal Sale,2023-07-19,2023-10-09,338775.89
+CAMP0038,Product Launch 38,Instagram,Product Launch,2023-06-19,2023-09-30,533445.65
+CAMP0039,Product Launch 39,Instagram,Product Launch,2025-08-26,2025-10-15,115149.68
+CAMP0040,Brand Awareness 40,Influencer,Brand Awareness,2024-02-15,2024-04-18,155595.14
+CAMP0041,Brand Awareness 41,Google Ads,Brand Awareness,2025-01-06,2025-04-30,260155.66
+CAMP0042,Retargeting 42,Facebook,Retargeting,2025-03-22,2025-05-10,776200.79
+CAMP0043,Brand Awareness 43,Google Ads,Brand Awareness,2024-07-02,2024-09-09,421209.3
+CAMP0044,Brand Awareness 44,YouTube,Brand Awareness,2023-10-23,2024-01-23,430081.89
+CAMP0045,Retargeting 45,Email,Retargeting,2025-02-13,2025-04-09,787692.0
+CAMP0046,Customer Acquisition 46,Google Ads,Customer Acquisition,2023-11-25,2024-02-04,619828.41
+CAMP0047,Brand Awareness 47,Facebook,Brand Awareness,2023-07-04,2023-10-26,81028.96
+CAMP0048,Seasonal Sale 48,Influencer,Seasonal Sale,2025-10-25,2025-11-24,471788.4
+CAMP0049,Brand Awareness 49,Google Ads,Brand Awareness,2025-07-12,2025-11-05,234720.2
+CAMP0050,Brand Awareness 50,YouTube,Brand Awareness,2024-04-08,2024-07-31,242829.07
+CAMP0051,Product Launch 51,Email,Product Launch,2025-08-29,2025-10-15,402208.05
+CAMP0052,Customer Acquisition 52,YouTube,Customer Acquisition,2025-08-15,2025-11-03,309260.66
+CAMP0053,Product Launch 53,Instagram,Product Launch,2023-10-25,2023-11-25,443226.86
+CAMP0054,Retargeting 54,Email,Retargeting,2023-12-09,2024-01-17,225661.0
+CAMP0055,Product Launch 55,Google Ads,Product Launch,2025-01-14,2025-05-07,521850.37
+CAMP0056,Seasonal Sale 56,Instagram,Seasonal Sale,2023-06-25,2023-10-21,566963.05
+CAMP0057,Product Launch 57,Facebook,Product Launch,2025-04-12,2025-08-06,94323.91
+CAMP0058,Seasonal Sale 58,Email,Seasonal Sale,2023-11-20,2024-03-04,472356.91
+CAMP0059,Customer Acquisition 59,Google Ads,Customer Acquisition,2023-03-08,2023-06-14,427564.49
+CAMP0060,Brand Awareness 60,Email,Brand Awareness,2025-05-26,2025-09-04,152509.14
+CAMP0061,Retargeting 61,Google Ads,Retargeting,2024-05-04,2024-06-27,390318.28
+CAMP0062,Brand Awareness 62,Email,Brand Awareness,2024-12-31,2025-02-02,786092.01
+CAMP0063,Product Launch 63,Influencer,Product Launch,2024-01-16,2024-04-27,792854.52
+CAMP0064,Product Launch 64,Email,Product Launch,2023-06-15,2023-08-19,128388.83
+CAMP0065,Customer Acquisition 65,YouTube,Customer Acquisition,2023-05-09,2023-08-03,775052.63
+CAMP0066,Customer Acquisition 66,Facebook,Customer Acquisition,2025-01-27,2025-03-17,243964.1
+CAMP0067,Seasonal Sale 67,Email,Seasonal Sale,2023-07-12,2023-11-04,389553.73
+CAMP0068,Seasonal Sale 68,Facebook,Seasonal Sale,2023-04-15,2023-07-28,271781.64
+CAMP0069,Customer Acquisition 69,Influencer,Customer Acquisition,2024-11-18,2025-02-15,374573.48
+CAMP0070,Product Launch 70,Instagram,Product Launch,2024-01-24,2024-04-02,581470.39
+CAMP0071,Brand Awareness 71,Facebook,Brand Awareness,2025-09-22,2025-12-31,589791.98
+CAMP0072,Seasonal Sale 72,Email,Seasonal Sale,2024-09-26,2024-11-03,147415.79
+CAMP0073,Customer Acquisition 73,YouTube,Customer Acquisition,2024-03-05,2024-07-02,64062.3
+CAMP0074,Retargeting 74,YouTube,Retargeting,2023-09-15,2023-10-15,340269.59
+CAMP0075,Seasonal Sale 75,Instagram,Seasonal Sale,2023-03-23,2023-04-27,334522.01
+CAMP0076,Customer Acquisition 76,Facebook,Customer Acquisition,2025-04-20,2025-05-23,71641.15
+CAMP0077,Brand Awareness 77,YouTube,Brand Awareness,2025-04-06,2025-06-12,794205.84
+CAMP0078,Product Launch 78,Instagram,Product Launch,2023-07-16,2023-10-05,341088.3
+CAMP0079,Brand Awareness 79,Influencer,Brand Awareness,2024-11-18,2025-03-15,103282.56
+CAMP0080,Retargeting 80,Email,Retargeting,2024-08-21,2024-11-06,745931.36

@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price,selling_price,supplier
+PROD0001,Outdoor Product 1,Sports,Outdoor,26523.15,39698.93,Metro Commerce
+PROD0002,Makeup Product 2,Beauty,Makeup,18268.54,23747.17,Metro Commerce
+PROD0003,Haircare Product 3,Beauty,Haircare,14450.75,22918.53,Urban Supply Co
+PROD0004,Accessories Product 4,Electronics,Accessories,15700.15,21222.23,Nova Retail
+PROD0005,Skincare Product 5,Beauty,Skincare,29261.03,45107.49,BluePeak Wholesale
+PROD0006,Accessories Product 6,Fashion,Accessories,20050.4,31875.23,BluePeak Wholesale
+PROD0007,Footwear Product 7,Fashion,Footwear,19168.35,23399.21,BluePeak Wholesale
+PROD0008,Footwear Product 8,Fashion,Footwear,7534.23,9680.48,Nova Retail
+PROD0009,Mobiles Product 9,Electronics,Mobiles,28502.87,44232.31,Prime Distributors
+PROD0010,Haircare Product 10,Beauty,Haircare,19474.24,27600.47,Nova Retail
+PROD0011,Fragrance Product 11,Beauty,Fragrance,13796.77,17415.46,Nova Retail
+PROD0012,Makeup Product 12,Beauty,Makeup,13925.27,16740.34,Prime Distributors
+PROD0013,Men Product 13,Fashion,Men,6865.99,9106.0,Nova Retail
+PROD0014,Skincare Product 14,Beauty,Skincare,9822.65,13709.61,Nova Retail
+PROD0015,Accessories Product 15,Fashion,Accessories,15348.62,21155.5,Nova Retail
+PROD0016,Kitchen Product 16,Home & Furniture,Kitchen,14492.51,21706.98,BluePeak Wholesale
+PROD0017,Haircare Product 17,Beauty,Haircare,10976.74,14930.26,BluePeak Wholesale
+PROD0018,Accessories Product 18,Fashion,Accessories,7746.0,11227.42,Prime Distributors
+PROD0019,Furniture Product 19,Home & Furniture,Furniture,18672.67,24527.72,Nova Retail
+PROD0020,Fragrance Product 20,Beauty,Fragrance,24085.71,37371.32,Nova Retail
+PROD0021,Fragrance Product 21,Beauty,Fragrance,14741.47,21751.61,BluePeak Wholesale
+PROD0022,Equipment Product 22,Sports,Equipment,3745.97,5888.2,Prime Distributors
+PROD0023,Audio Product 23,Electronics,Audio,623.13,886.48,Prime Distributors
+PROD0024,Women Product 24,Fashion,Women,11038.89,15612.02,Prime Distributors
+PROD0025,Laptops Product 25,Electronics,Laptops,1607.74,2359.68,Vertex Traders
+PROD0026,Audio Product 26,Electronics,Audio,18894.65,22858.62,Metro Commerce
+PROD0027,Footwear Product 27,Fashion,Footwear,6818.58,8268.25,Metro Commerce
+PROD0028,Haircare Product 28,Beauty,Haircare,8567.42,11513.39,Vertex Traders
+PROD0029,Women Product 29,Fashion,Women,22264.08,35523.85,BluePeak Wholesale
+PROD0030,Mobiles Product 30,Electronics,Mobiles,6184.19,7567.35,Prime Distributors
+PROD0031,Furniture Product 31,Home & Furniture,Furniture,3769.03,5349.97,Nova Retail
+PROD0032,Equipment Product 32,Sports,Equipment,26254.72,35200.15,Urban Supply Co
+PROD0033,Makeup Product 33,Beauty,Makeup,3383.35,5373.96,Metro Commerce
+PROD0034,Skincare Product 34,Beauty,Skincare,932.13,1178.74,Vertex Traders
+PROD0035,Makeup Product 35,Beauty,Makeup,10406.69,15619.88,Vertex Traders
+PROD0036,Accessories Product 36,Electronics,Accessories,4095.27,4962.52,Urban Supply Co
+PROD0037,Accessories Product 37,Fashion,Accessories,15161.54,23576.11,Nova Retail
+PROD0038,Kitchen Product 38,Home & Furniture,Kitchen,10591.15,13535.31,Vertex Traders
+PROD0039,Footwear Product 39,Fashion,Footwear,4649.21,5619.53,Urban Supply Co
+PROD0040,Sportswear Product 40,Sports,Sportswear,25415.07,31129.89,Nova Retail
+PROD0041,Decor Product 41,Home & Furniture,Decor,3251.6,4508.09,Nova Retail
+PROD0042,Skincare Product 42,Beauty,Skincare,18150.81,26970.61,Vertex Traders
+PROD0043,Haircare Product 43,Beauty,Haircare,5850.54,7055.92,Metro Commerce
+PROD0044,Footwear Product 44,Fashion,Footwear,3367.42,4535.35,Nova Retail
+PROD0045,Skincare Product 45,Beauty,Skincare,24899.22,30650.61,BluePeak Wholesale
+PROD0046,Decor Product 46,Home & Furniture,Decor,2189.47,3009.32,Prime Distributors
+PROD0047,Accessories Product 47,Fashion,Accessories,12111.35,17129.58,BluePeak Wholesale
+PROD0048,Sportswear Product 48,Sports,Sportswear,26625.48,40158.38,Metro Commerce
+PROD0049,Fragrance Product 49,Beauty,Fragrance,5510.26,7550.45,BluePeak Wholesale
+PROD0050,Decor Product 50,Home & Furniture,Decor,23434.34,36343.99,Vertex Traders
+PROD0051,Storage Product 51,Home & Furniture,Storage,706.22,1039.36,Nova Retail
+PROD0052,Equipment Product 52,Sports,Equipment,11883.6,14834.1,Prime Distributors
+PROD0053,Kitchen Product 53,Home & Furniture,Kitchen,23827.75,31484.87,Nova Retail
+PROD0054,Haircare Product 54,Beauty,Haircare,24047.4,30639.1,Prime Distributors
+PROD0055,Accessories Product 55,Electronics,Accessories,10618.21,16179.26,BluePeak Wholesale
+PROD0056,Men Product 56,Fashion,Men,3902.4,4966.14,BluePeak Wholesale
+PROD0057,Fitness Product 57,Sports,Fitness,18424.15,22181.95,Nova Retail
+PROD0058,Mobiles Product 58,Electronics,Mobiles,11478.03,17765.04,BluePeak Wholesale
+PROD0059,Laptops Product 59,Electronics,Laptops,20084.96,31000.72,BluePeak Wholesale
+PROD0060,Fitness Product 60,Sports,Fitness,13556.55,17531.34,Prime Distributors
+PROD0061,Outdoor Product 61,Sports,Outdoor,9296.64,14361.16,BluePeak Wholesale
+PROD0062,Audio Product 62,Electronics,Audio,20372.43,28135.34,Vertex Traders
+PROD0063,Audio Product 63,Electronics,Audio,5444.88,8449.27,Vertex Traders
+PROD0064,Mobiles Product 64,Electronics,Mobiles,7942.6,9705.82,Prime Distributors
+PROD0065,Outdoor Product 65,Sports,Outdoor,20024.25,25402.26,Prime Distributors
+PROD0066,Makeup Product 66,Beauty,Makeup,18912.98,28915.76,BluePeak Wholesale
+PROD0067,Makeup Product 67,Beauty,Makeup,5583.35,7424.46,Vertex Traders
+PROD0068,Outdoor Product 68,Sports,Outdoor,485.21,748.52,Urban Supply Co
+PROD0069,Accessories Product 69,Electronics,Accessories,9773.38,13714.69,Urban Supply Co
+PROD0070,Kitchen Product 70,Home & Furniture,Kitchen,2899.37,4312.58,Nova Retail
+PROD0071,Mobiles Product 71,Electronics,Mobiles,16562.55,22418.67,Metro Commerce
+PROD0072,Outdoor Product 72,Sports,Outdoor,4271.1,5921.8,Urban Supply Co
+PROD0073,Decor Product 73,Home & Furniture,Decor,12717.67,15586.21,Prime Distributors
+PROD0074,Storage Product 74,Home & Furniture,Storage,3125.49,4363.99,Prime Distributors
+PROD0075,Haircare Product 75,Beauty,Haircare,17677.23,25156.02,Urban Supply Co
+PROD0076,Decor Product 76,Home & Furniture,Decor,10307.94,16365.4,Nova Retail
+PROD0077,Sportswear Product 77,Sports,Sportswear,8917.16,11798.83,Vertex Traders
+PROD0078,Fitness Product 78,Sports,Fitness,9107.52,12843.5,Prime Distributors
+PROD0079,Haircare Product 79,Beauty,Haircare,28463.87,39720.41,Vertex Traders
+PROD0080,Fitness Product 80,Sports,Fitness,3371.24,5162.63,Vertex Traders
+PROD0081,Laptops Product 81,Electronics,Laptops,28857.09,43137.11,BluePeak Wholesale
+PROD0082,Makeup Product 82,Beauty,Makeup,7957.74,10808.52,Nova Retail
+PROD0083,Mobiles Product 83,Electronics,Mobiles,6080.24,8275.84,Prime Distributors
+PROD0084,Accessories Product 84,Electronics,Accessories,22931.05,31841.27,Nova Retail
+PROD0085,Women Product 85,Fashion,Women,2624.48,4190.1,Prime Distributors
+PROD0086,Women Product 86,Fashion,Women,10061.43,15263.36,Nova Retail
+PROD0087,Storage Product 87,Home & Furniture,Storage,3189.29,4125.49,Prime Distributors
+PROD0088,Equipment Product 88,Sports,Equipment,21066.94,30108.9,Urban Supply Co
+PROD0089,Fitness Product 89,Sports,Fitness,1946.63,3028.13,Nova Retail
+PROD0090,Fragrance Product 90,Beauty,Fragrance,16346.88,22045.62,Metro Commerce
+PROD0091,Sportswear Product 91,Sports,Sportswear,18366.08,29098.76,BluePeak Wholesale
+PROD0092,Mobiles Product 92,Electronics,Mobiles,15524.9,22823.57,Urban Supply Co
+PROD0093,Audio Product 93,Electronics,Audio,13121.81,20128.97,BluePeak Wholesale
+PROD0094,Skincare Product 94,Beauty,Skincare,28132.19,36316.09,BluePeak Wholesale
+PROD0095,Decor Product 95,Home & Furniture,Decor,14831.73,22731.21,Vertex Traders
+PROD0096,Storage Product 96,Home & Furniture,Storage,8377.72,12687.04,Metro Commerce
+PROD0097,Skincare Product 97,Beauty,Skincare,10090.68,14722.07,Nova Retail
+PROD0098,Equipment Product 98,Sports,Equipment,841.59,1014.25,Prime Distributors
+PROD0099,Laptops Product 99,Electronics,Laptops,28699.38,40165.7,Vertex Traders
+PROD0100,Laptops Product 100,Electronics,Laptops,20993.93,32370.55,Nova Retail
+PROD0101,Fragrance Product 101,Beauty,Fragrance,13666.61,17664.94,Metro Commerce
+PROD0102,Skincare Product 102,Beauty,Skincare,1216.33,1523.44,Urban Supply Co
+PROD0103,Makeup Product 103,Beauty,Makeup,20234.95,30681.58,Vertex Traders
+PROD0104,Kitchen Product 104,Home & Furniture,Kitchen,19952.03,26715.1,Metro Commerce
+PROD0105,Makeup Product 105,Beauty,Makeup,13826.41,17519.99,BluePeak Wholesale
+PROD0106,Outdoor Product 106,Sports,Outdoor,28283.67,40087.31,Urban Supply Co
+PROD0107,Women Product 107,Fashion,Women,603.32,818.78,Prime Distributors
+PROD0108,Equipment Product 108,Sports,Equipment,2027.36,2486.39,BluePeak Wholesale
+PROD0109,Decor Product 109,Home & Furniture,Decor,14604.48,18223.74,Vertex Traders
+PROD0110,Accessories Product 110,Electronics,Accessories,9010.25,13306.71,Urban Supply Co
+PROD0111,Women Product 111,Fashion,Women,16192.19,22385.69,Metro Commerce
+PROD0112,Fragrance Product 112,Beauty,Fragrance,6201.96,9165.37,Metro Commerce
+PROD0113,Laptops Product 113,Electronics,Laptops,3922.45,5309.71,Nova Retail
+PROD0114,Storage Product 114,Home & Furniture,Storage,18442.89,27159.9,Vertex Traders
+PROD0115,Accessories Product 115,Electronics,Accessories,8455.84,13350.76,BluePeak Wholesale
+PROD0116,Accessories Product 116,Fashion,Accessories,18140.88,22370.98,Urban Supply Co
+PROD0117,Outdoor Product 117,Sports,Outdoor,9088.33,11349.17,Nova Retail
+PROD0118,Kitchen Product 118,Home & Furniture,Kitchen,9500.94,12694.07,BluePeak Wholesale
+PROD0119,Furniture Product 119,Home & Furniture,Furniture,19126.08,25322.29,Urban Supply Co
+PROD0120,Furniture Product 120,Home & Furniture,Furniture,13114.71,20843.65,BluePeak Wholesale
+PROD0121,Laptops Product 121,Electronics,Laptops,10960.82,16395.02,Vertex Traders
+PROD0122,Fitness Product 122,Sports,Fitness,28167.88,38161.97,Metro Commerce
+PROD0123,Makeup Product 123,Beauty,Makeup,7566.37,11644.93,Vertex Traders
+PROD0124,Outdoor Product 124,Sports,Outdoor,29525.65,36133.43,Urban Supply Co
+PROD0125,Equipment Product 125,Sports,Equipment,20154.96,25262.62,BluePeak Wholesale
+PROD0126,Audio Product 126,Electronics,Audio,24373.88,35454.19,Urban Supply Co
+PROD0127,Equipment Product 127,Sports,Equipment,3295.23,4043.56,Metro Commerce
+PROD0128,Women Product 128,Fashion,Women,9966.71,14107.99,Urban Supply Co
+PROD0129,Women Product 129,Fashion,Women,2988.35,4462.63,Urban Supply Co
+PROD0130,Mobiles Product 130,Electronics,Mobiles,16227.6,24327.04,Urban Supply Co
+PROD0131,Fitness Product 131,Sports,Fitness,7928.71,10499.71,Vertex Traders
+PROD0132,Accessories Product 132,Electronics,Accessories,27654.65,36309.13,Urban Supply Co
+PROD0133,Kitchen Product 133,Home & Furniture,Kitchen,2982.59,3961.7,Metro Commerce
+PROD0134,Footwear Product 134,Fashion,Footwear,5930.16,9278.96,Prime Distributors
+PROD0135,Women Product 135,Fashion,Women,22243.23,28324.51,Nova Retail
+PROD0136,Skincare Product 136,Beauty,Skincare,24547.69,32700.73,Nova Retail
+PROD0137,Sportswear Product 137,Sports,Sportswear,21983.27,26842.74,BluePeak Wholesale
+PROD0138,Audio Product 138,Electronics,Audio,18915.16,26188.55,Urban Supply Co
+PROD0139,Storage Product 139,Home & Furniture,Storage,17628.66,23778.98,Metro Commerce
+PROD0140,Audio Product 140,Electronics,Audio,6666.5,8997.14,Prime Distributors
+PROD0141,Decor Product 141,Home & Furniture,Decor,18928.57,25450.83,Vertex Traders
+PROD0142,Sportswear Product 142,Sports,Sportswear,2327.64,3061.07,Metro Commerce
+PROD0143,Accessories Product 143,Electronics,Accessories,12683.37,17474.56,Prime Distributors
+PROD0144,Accessories Product 144,Fashion,Accessories,6022.52,8404.3,Nova Retail
+PROD0145,Audio Product 145,Electronics,Audio,29111.45,43300.13,Nova Retail
+PROD0146,Furniture Product 146,Home & Furniture,Furniture,357.17,455.61,Nova Retail
+PROD0147,Equipment Product 147,Sports,Equipment,24026.44,29759.63,Metro Commerce
+PROD0148,Outdoor Product 148,Sports,Outdoor,11433.32,14400.57,Urban Supply Co
+PROD0149,Skincare Product 149,Beauty,Skincare,16388.63,20395.69,Vertex Traders
+PROD0150,Equipment Product 150,Sports,Equipment,13396.53,21125.53,Urban Supply Co
+PROD0151,Storage Product 151,Home & Furniture,Storage,16009.96,22425.15,Nova Retail
+PROD0152,Skincare Product 152,Beauty,Skincare,19300.34,30308.74,Vertex Traders
+PROD0153,Footwear Product 153,Fashion,Footwear,4865.37,7309.97,Nova Retail
+PROD0154,Kitchen Product 154,Home & Furniture,Kitchen,20829.3,27601.82,Nova Retail
+PROD0155,Mobiles Product 155,Electronics,Mobiles,6982.69,9968.75,Nova Retail
+PROD0156,Laptops Product 156,Electronics,Laptops,21216.85,32307.03,BluePeak Wholesale
+PROD0157,Decor Product 157,Home & Furniture,Decor,3364.34,5330.45,Metro Commerce
+PROD0158,Outdoor Product 158,Sports,Outdoor,4343.97,6717.13,Nova Retail
+PROD0159,Men Product 159,Fashion,Men,3284.67,4666.39,Nova Retail
+PROD0160,Sportswear Product 160,Sports,Sportswear,27791.55,37661.92,Prime Distributors
+PROD0161,Outdoor Product 161,Sports,Outdoor,10390.13,15928.33,Metro Commerce
+PROD0162,Men Product 162,Fashion,Men,926.7,1380.37,Prime Distributors
+PROD0163,Women Product 163,Fashion,Women,26743.76,41587.95,BluePeak Wholesale
+PROD0164,Skincare Product 164,Beauty,Skincare,12193.19,17522.43,Nova Retail
+PROD0165,Makeup Product 165,Beauty,Makeup,8010.41,11929.69,Vertex Traders
+PROD0166,Footwear Product 166,Fashion,Footwear,5355.24,7061.7,BluePeak Wholesale
+PROD0167,Accessories Product 167,Fashion,Accessories,12090.32,15616.72,Nova Retail
+PROD0168,Skincare Product 168,Beauty,Skincare,1611.34,2188.24,Prime Distributors
+PROD0169,Audio Product 169,Electronics,Audio,9911.86,14106.66,Nova Retail
+PROD0170,Accessories Product 170,Electronics,Accessories,3955.49,5728.34,Nova Retail
+PROD0171,Haircare Product 171,Beauty,Haircare,22758.13,30369.26,Nova Retail
+PROD0172,Fragrance Product 172,Beauty,Fragrance,15867.58,23044.96,Urban Supply Co
+PROD0173,Accessories Product 173,Electronics,Accessories,9270.22,12561.86,Prime Distributors
+PROD0174,Fitness Product 174,Sports,Fitness,16735.02,24286.49,Vertex Traders
+PROD0175,Kitchen Product 175,Home & Furniture,Kitchen,19270.07,28960.13,Urban Supply Co
+PROD0176,Decor Product 176,Home & Furniture,Decor,460.75,651.76,Metro Commerce
+PROD0177,Men Product 177,Fashion,Men,26117.51,32668.59,Vertex Traders
+PROD0178,Men Product 178,Fashion,Men,11627.91,15909.03,BluePeak Wholesale
+PROD0179,Sportswear Product 179,Sports,Sportswear,5370.9,8446.76,Prime Distributors
+PROD0180,Fragrance Product 180,Beauty,Fragrance,405.54,599.22,BluePeak Wholesale
+PROD0181,Outdoor Product 181,Sports,Outdoor,4559.19,7292.94,Nova Retail
+PROD0182,Equipment Product 182,Sports,Equipment,23075.51,31395.61,Vertex Traders
+PROD0183,Kitchen Product 183,Home & Furniture,Kitchen,11285.78,16247.35,Urban Supply Co
+PROD0184,Equipment Product 184,Sports,Equipment,19204.99,23751.17,Metro Commerce
+PROD0185,Equipment Product 185,Sports,Equipment,29369.52,40096.54,BluePeak Wholesale
+PROD0186,Mobiles Product 186,Electronics,Mobiles,15291.49,24466.25,Nova Retail
+PROD0187,Mobiles Product 187,Electronics,Mobiles,19481.36,27622.99,Metro Commerce
+PROD0188,Men Product 188,Fashion,Men,5421.15,7660.37,BluePeak Wholesale
+PROD0189,Storage Product 189,Home & Furniture,Storage,10117.87,15072.96,Nova Retail
+PROD0190,Furniture Product 190,Home & Furniture,Furniture,18387.28,25977.55,Vertex Traders
+PROD0191,Outdoor Product 191,Sports,Outdoor,9642.0,12615.9,Urban Supply Co
+PROD0192,Furniture Product 192,Home & Furniture,Furniture,15468.72,22526.31,Prime Distributors
+PROD0193,Furniture Product 193,Home & Furniture,Furniture,13731.27,18086.44,BluePeak Wholesale
+PROD0194,Skincare Product 194,Beauty,Skincare,5556.81,8336.77,Urban Supply Co
+PROD0195,Skincare Product 195,Beauty,Skincare,2876.81,4246.86,Metro Commerce
+PROD0196,Skincare Product 196,Beauty,Skincare,20598.38,28325.48,Vertex Traders
+PROD0197,Kitchen Product 197,Home & Furniture,Kitchen,19750.77,26630.58,Vertex Traders
+PROD0198,Fragrance Product 198,Beauty,Fragrance,8148.76,12813.85,Metro Commerce
+PROD0199,Accessories Product 199,Electronics,Accessories,5113.26,7816.76,BluePeak Wholesale
+PROD0200,Skincare Product 200,Beauty,Skincare,29118.45,41091.25,Vertex Traders
+PROD0201,Storage Product 201,Home & Furniture,Storage,23496.48,35991.93,Vertex Traders
+PROD0202,Accessories Product 202,Fashion,Accessories,13122.69,16582.91,Metro Commerce
+PROD0203,Equipment Product 203,Sports,Equipment,14224.49,20046.77,Prime Distributors
+PROD0204,Audio Product 204,Electronics,Audio,15140.6,23124.19,BluePeak Wholesale
+PROD0205,Accessories Product 205,Electronics,Accessories,5221.39,7391.4,BluePeak Wholesale
+PROD0206,Outdoor Product 206,Sports,Outdoor,9949.4,14208.87,Vertex Traders
+PROD0207,Haircare Product 207,Beauty,Haircare,20868.27,26058.3,BluePeak Wholesale
+PROD0208,Footwear Product 208,Fashion,Footwear,27862.19,40400.75,Vertex Traders
+PROD0209,Audio Product 209,Electronics,Audio,13195.66,17968.78,Vertex Traders
+PROD0210,Haircare Product 210,Beauty,Haircare,24238.11,38711.64,Urban Supply Co
+PROD0211,Accessories Product 211,Fashion,Accessories,12955.91,19512.34,Prime Distributors
+PROD0212,Men Product 212,Fashion,Men,8046.47,12591.68,BluePeak Wholesale
+PROD0213,Outdoor Product 213,Sports,Outdoor,2142.26,2742.1,Nova Retail
+PROD0214,Sportswear Product 214,Sports,Sportswear,7018.72,8711.04,BluePeak Wholesale
+PROD0215,Furniture Product 215,Home & Furniture,Furniture,26190.98,41864.91,Metro Commerce
+PROD0216,Furniture Product 216,Home & Furniture,Furniture,9947.23,13971.62,Vertex Traders
+PROD0217,Footwear Product 217,Fashion,Footwear,16407.76,25023.38,Metro Commerce
+PROD0218,Fitness Product 218,Sports,Fitness,12871.7,16006.56,Nova Retail
+PROD0219,Makeup Product 219,Beauty,Makeup,5368.37,8471.17,BluePeak Wholesale
+PROD0220,Fragrance Product 220,Beauty,Fragrance,22410.62,32867.68,Vertex Traders
+PROD0221,Skincare Product 221,Beauty,Skincare,25019.29,37798.09,Metro Commerce
+PROD0222,Women Product 222,Fashion,Women,9146.46,13960.41,Nova Retail
+PROD0223,Equipment Product 223,Sports,Equipment,21045.52,29606.79,Nova Retail
+PROD0224,Kitchen Product 224,Home & Furniture,Kitchen,8352.09,11594.36,Metro Commerce
+PROD0225,Sportswear Product 225,Sports,Sportswear,24618.86,29961.86,Nova Retail
+PROD0226,Footwear Product 226,Fashion,Footwear,25922.51,36701.48,Prime Distributors
+PROD0227,Laptops Product 227,Electronics,Laptops,22226.91,30487.29,Urban Supply Co
+PROD0228,Audio Product 228,Electronics,Audio,28314.78,41408.75,BluePeak Wholesale
+PROD0229,Sportswear Product 229,Sports,Sportswear,7306.55,9868.06,Prime Distributors
+PROD0230,Equipment Product 230,Sports,Equipment,2659.56,3957.73,Prime Distributors
+PROD0231,Equipment Product 231,Sports,Equipment,18145.78,27663.53,Prime Distributors
+PROD0232,Accessories Product 232,Electronics,Accessories,16711.09,24095.25,Metro Commerce
+PROD0233,Decor Product 233,Home & Furniture,Decor,2329.13,3707.93,Vertex Traders
+PROD0234,Audio Product 234,Electronics,Audio,15746.0,19076.42,Metro Commerce
+PROD0235,Furniture Product 235,Home & Furniture,Furniture,23013.13,28420.57,Nova Retail
+PROD0236,Mobiles Product 236,Electronics,Mobiles,27342.83,39718.62,Vertex Traders
+PROD0237,Audio Product 237,Electronics,Audio,15915.67,25012.14,Metro Commerce
+PROD0238,Audio Product 238,Electronics,Audio,18650.75,29078.37,Prime Distributors
+PROD0239,Fragrance Product 239,Beauty,Fragrance,803.09,1267.15,Vertex Traders
+PROD0240,Women Product 240,Fashion,Women,204.67,248.31,Nova Retail
+PROD0241,Fitness Product 241,Sports,Fitness,26479.96,41913.99,Nova Retail
+PROD0242,Outdoor Product 242,Sports,Outdoor,12666.93,15220.36,Vertex Traders
+PROD0243,Furniture Product 243,Home & Furniture,Furniture,28618.88,35734.86,BluePeak Wholesale
+PROD0244,Audio Product 244,Electronics,Audio,25017.58,35605.68,Nova Retail
+PROD0245,Fitness Product 245,Sports,Fitness,17557.18,26665.35,Urban Supply Co
+PROD0246,Kitchen Product 246,Home & Furniture,Kitchen,28548.71,42660.79,Vertex Traders
+PROD0247,Decor Product 247,Home & Furniture,Decor,10605.42,14036.0,Nova Retail
+PROD0248,Men Product 248,Fashion,Men,21162.04,30404.34,Prime Distributors
+PROD0249,Decor Product 249,Home & Furniture,Decor,25451.91,31981.52,Nova Retail
+PROD0250,Furniture Product 250,Home & Furniture,Furniture,28772.5,41718.43,Prime Distributors
+PROD0251,Furniture Product 251,Home & Furniture,Furniture,14277.69,19494.48,Prime Distributors
+PROD0252,Decor Product 252,Home & Furniture,Decor,17121.93,21587.41,Vertex Traders
+PROD0253,Mobiles Product 253,Electronics,Mobiles,20720.84,28758.45,Nova Retail
+PROD0254,Accessories Product 254,Fashion,Accessories,25275.56,35187.76,Prime Distributors
+PROD0255,Audio Product 255,Electronics,Audio,27469.46,37618.89,Nova Retail
+PROD0256,Footwear Product 256,Fashion,Footwear,21855.5,30725.19,Metro Commerce
+PROD0257,Sportswear Product 257,Sports,Sportswear,14499.48,17859.09,Metro Commerce
+PROD0258,Outdoor Product 258,Sports,Outdoor,12753.74,19021.91,Vertex Traders
+PROD0259,Accessories Product 259,Fashion,Accessories,16684.48,21160.67,Metro Commerce
+PROD0260,Skincare Product 260,Beauty,Skincare,26388.57,34392.17,Nova Retail
+PROD0261,Footwear Product 261,Fashion,Footwear,19827.87,31075.7,Metro Commerce
+PROD0262,Footwear Product 262,Fashion,Footwear,26264.96,31663.72,Prime Distributors
+PROD0263,Laptops Product 263,Electronics,Laptops,14657.48,18700.68,Urban Supply Co
+PROD0264,Makeup Product 264,Beauty,Makeup,17659.25,21831.23,Metro Commerce
+PROD0265,Storage Product 265,Home & Furniture,Storage,21043.71,27177.05,BluePeak Wholesale
+PROD0266,Outdoor Product 266,Sports,Outdoor,18400.99,24505.25,Nova Retail
+PROD0267,Audio Product 267,Electronics,Audio,1053.28,1443.9,Metro Commerce
+PROD0268,Sportswear Product 268,Sports,Sportswear,24712.29,32592.02,Urban Supply Co
+PROD0269,Women Product 269,Fashion,Women,9882.15,12400.95,Prime Distributors
+PROD0270,Storage Product 270,Home & Furniture,Storage,609.18,804.27,Nova Retail
+PROD0271,Makeup Product 271,Beauty,Makeup,18784.62,26940.39,Prime Distributors
+PROD0272,Footwear Product 272,Fashion,Footwear,308.62,492.82,Metro Commerce
+PROD0273,Sportswear Product 273,Sports,Sportswear,16882.46,21310.14,Metro Commerce
+PROD0274,Outdoor Product 274,Sports,Outdoor,24566.99,35816.03,Prime Distributors
+PROD0275,Equipment Product 275,Sports,Equipment,5834.21,7028.09,Urban Supply Co
+PROD0276,Equipment Product 276,Sports,Equipment,29949.77,37577.65,Prime Distributors
+PROD0277,Mobiles Product 277,Electronics,Mobiles,5963.92,9433.68,BluePeak Wholesale
+PROD0278,Women Product 278,Fashion,Women,9195.71,13191.87,Nova Retail
+PROD0279,Mobiles Product 279,Electronics,Mobiles,24081.84,31063.55,BluePeak Wholesale
+PROD0280,Makeup Product 280,Beauty,Makeup,17847.23,24044.89,Prime Distributors
+PROD0281,Equipment Product 281,Sports,Equipment,562.8,751.71,Prime Distributors
+PROD0282,Footwear Product 282,Fashion,Footwear,5878.85,8339.91,Urban Supply Co
+PROD0283,Kitchen Product 283,Home & Furniture,Kitchen,19492.7,25508.2,BluePeak Wholesale
+PROD0284,Audio Product 284,Electronics,Audio,1195.78,1675.23,Metro Commerce
+PROD0285,Sportswear Product 285,Sports,Sportswear,27113.57,37799.17,Prime Distributors
+PROD0286,Kitchen Product 286,Home & Furniture,Kitchen,12955.24,18286.64,BluePeak Wholesale
+PROD0287,Storage Product 287,Home & Furniture,Storage,10711.69,17108.69,Vertex Traders
+PROD0288,Skincare Product 288,Beauty,Skincare,14079.86,20017.92,Nova Retail
+PROD0289,Accessories Product 289,Electronics,Accessories,3833.09,4953.94,Prime Distributors
+PROD0290,Haircare Product 290,Beauty,Haircare,17519.63,25403.39,Urban Supply Co
+PROD0291,Equipment Product 291,Sports,Equipment,22331.19,28733.85,Prime Distributors
+PROD0292,Equipment Product 292,Sports,Equipment,5259.21,7120.17,Urban Supply Co
+PROD0293,Haircare Product 293,Beauty,Haircare,15848.66,23768.0,BluePeak Wholesale
+PROD0294,Men Product 294,Fashion,Men,3351.99,4880.17,Prime Distributors
+PROD0295,Makeup Product 295,Beauty,Makeup,15937.39,22051.79,BluePeak Wholesale
+PROD0296,Skincare Product 296,Beauty,Skincare,11137.23,16450.43,Prime Distributors
+PROD0297,Men Product 297,Fashion,Men,3873.44,4923.94,Vertex Traders
+PROD0298,Audio Product 298,Electronics,Audio,22482.37,34259.85,Nova Retail
+PROD0299,Laptops Product 299,Electronics,Laptops,22809.03,27381.34,Nova Retail
+PROD0300,Decor Product 300,Home & Furniture,Decor,19858.61,30642.13,Vertex Traders
+PROD0301,Men Product 301,Fashion,Men,14021.13,17794.38,Vertex Traders
+PROD0302,Kitchen Product 302,Home & Furniture,Kitchen,8523.18,11270.62,BluePeak Wholesale
+PROD0303,Haircare Product 303,Beauty,Haircare,12839.85,19299.35,Nova Retail
+PROD0304,Mobiles Product 304,Electronics,Mobiles,18308.97,24188.28,Metro Commerce
+PROD0305,Footwear Product 305,Fashion,Footwear,22042.05,28069.57,BluePeak Wholesale
+PROD0306,Accessories Product 306,Electronics,Accessories,22616.43,32830.53,Vertex Traders
+PROD0307,Storage Product 307,Home & Furniture,Storage,1125.5,1600.74,Nova Retail
+PROD0308,Storage Product 308,Home & Furniture,Storage,23453.24,29318.1,Vertex Traders
+PROD0309,Kitchen Product 309,Home & Furniture,Kitchen,12202.73,16759.87,Vertex Traders
+PROD0310,Makeup Product 310,Beauty,Makeup,23470.23,33285.59,BluePeak Wholesale
+PROD0311,Women Product 311,Fashion,Women,2792.85,3567.55,Urban Supply Co
+PROD0312,Furniture Product 312,Home & Furniture,Furniture,12355.75,15695.38,Metro Commerce
+PROD0313,Fitness Product 313,Sports,Fitness,14015.75,17717.65,Vertex Traders
+PROD0314,Women Product 314,Fashion,Women,10209.09,14333.48,Prime Distributors
+PROD0315,Haircare Product 315,Beauty,Haircare,25718.72,38889.66,BluePeak Wholesale
+PROD0316,Makeup Product 316,Beauty,Makeup,28678.77,37233.41,Prime Distributors
+PROD0317,Furniture Product 317,Home & Furniture,Furniture,28967.77,38593.17,Urban Supply Co
+PROD0318,Men Product 318,Fashion,Men,24501.48,37548.56,Prime Distributors
+PROD0319,Mobiles Product 319,Electronics,Mobiles,21380.89,33795.67,Prime Distributors
+PROD0320,Men Product 320,Fashion,Men,6040.14,9262.48,Urban Supply Co
+PROD0321,Men Product 321,Fashion,Men,18321.23,28463.65,Metro Commerce
+PROD0322,Haircare Product 322,Beauty,Haircare,10420.64,16321.19,Metro Commerce
+PROD0323,Storage Product 323,Home & Furniture,Storage,2224.13,2999.47,Prime Distributors
+PROD0324,Men Product 324,Fashion,Men,15789.62,22383.91,Urban Supply Co
+PROD0325,Storage Product 325,Home & Furniture,Storage,1153.58,1450.18,Urban Supply Co
+PROD0326,Skincare Product 326,Beauty,Skincare,6638.83,9503.02,Urban Supply Co
+PROD0327,Kitchen Product 327,Home & Furniture,Kitchen,27949.29,40097.06,BluePeak Wholesale
+PROD0328,Makeup Product 328,Beauty,Makeup,29411.67,43266.13,Prime Distributors
+PROD0329,Men Product 329,Fashion,Men,27908.88,44115.27,Urban Supply Co
+PROD0330,Fragrance Product 330,Beauty,Fragrance,19602.65,28693.8,Vertex Traders
+PROD0331,Equipment Product 331,Sports,Equipment,12993.03,20504.78,Metro Commerce
+PROD0332,Makeup Product 332,Beauty,Makeup,8801.0,12917.81,Nova Retail
+PROD0333,Skincare Product 333,Beauty,Skincare,14913.16,18509.79,Metro Commerce
+PROD0334,Women Product 334,Fashion,Women,21659.04,33860.53,Nova Retail
+PROD0335,Decor Product 335,Home & Furniture,Decor,3684.26,5169.86,Vertex Traders
+PROD0336,Accessories Product 336,Electronics,Accessories,8212.41,10510.31,Nova Retail
+PROD0337,Mobiles Product 337,Electronics,Mobiles,11438.25,14367.41,Vertex Traders
+PROD0338,Footwear Product 338,Fashion,Footwear,11983.23,17761.65,Prime Distributors
+PROD0339,Makeup Product 339,Beauty,Makeup,10394.6,13982.08,Prime Distributors
+PROD0340,Accessories Product 340,Electronics,Accessories,7118.58,8906.57,Prime Distributors
+PROD0341,Outdoor Product 341,Sports,Outdoor,19087.5,27985.88,BluePeak Wholesale
+PROD0342,Men Product 342,Fashion,Men,2564.38,3391.47,BluePeak Wholesale
+PROD0343,Accessories Product 343,Fashion,Accessories,20796.14,31911.57,Metro Commerce
+PROD0344,Accessories Product 344,Electronics,Accessories,12808.03,20271.18,Prime Distributors
+PROD0345,Decor Product 345,Home & Furniture,Decor,25333.73,33855.6,Metro Commerce
+PROD0346,Kitchen Product 346,Home & Furniture,Kitchen,22851.74,32555.44,Metro Commerce
+PROD0347,Kitchen Product 347,Home & Furniture,Kitchen,12753.68,16171.71,Vertex Traders
+PROD0348,Men Product 348,Fashion,Men,24463.91,33819.6,Vertex Traders
+PROD0349,Equipment Product 349,Sports,Equipment,20144.56,25766.17,Urban Supply Co
+PROD0350,Women Product 350,Fashion,Women,1269.41,1787.17,BluePeak Wholesale
+PROD0351,Fragrance Product 351,Beauty,Fragrance,25961.47,32037.88,Metro Commerce
+PROD0352,Equipment Product 352,Sports,Equipment,25119.48,39918.62,Nova Retail
+PROD0353,Storage Product 353,Home & Furniture,Storage,12853.77,20488.53,Metro Commerce
+PROD0354,Women Product 354,Fashion,Women,11068.09,16393.47,BluePeak Wholesale
+PROD0355,Accessories Product 355,Electronics,Accessories,24616.05,38477.02,BluePeak Wholesale
+PROD0356,Audio Product 356,Electronics,Audio,4915.47,6420.83,Vertex Traders
+PROD0357,Outdoor Product 357,Sports,Outdoor,19151.53,27245.42,Prime Distributors
+PROD0358,Men Product 358,Fashion,Men,20149.1,24999.2,Metro Commerce
+PROD0359,Outdoor Product 359,Sports,Outdoor,26834.86,36539.96,Vertex Traders
+PROD0360,Furniture Product 360,Home & Furniture,Furniture,15286.03,21650.27,Nova Retail
+PROD0361,Men Product 361,Fashion,Men,15956.22,20249.07,Vertex Traders
+PROD0362,Storage Product 362,Home & Furniture,Storage,20945.29,28741.73,Nova Retail
+PROD0363,Laptops Product 363,Electronics,Laptops,2854.95,3922.86,Vertex Traders
+PROD0364,Furniture Product 364,Home & Furniture,Furniture,29237.28,44407.7,Nova Retail
+PROD0365,Sportswear Product 365,Sports,Sportswear,16430.95,21958.47,Metro Commerce
+PROD0366,Outdoor Product 366,Sports,Outdoor,25866.28,38133.95,Urban Supply Co
+PROD0367,Fitness Product 367,Sports,Fitness,26448.37,34383.31,Nova Retail
+PROD0368,Accessories Product 368,Fashion,Accessories,12295.35,17619.64,Vertex Traders
+PROD0369,Footwear Product 369,Fashion,Footwear,13050.62,19984.81,BluePeak Wholesale
+PROD0370,Laptops Product 370,Electronics,Laptops,3597.98,4778.2,BluePeak Wholesale
+PROD0371,Skincare Product 371,Beauty,Skincare,13782.6,17657.54,Nova Retail
+PROD0372,Women Product 372,Fashion,Women,20272.42,25125.41,Nova Retail
+PROD0373,Storage Product 373,Home & Furniture,Storage,26356.42,31702.38,BluePeak Wholesale
+PROD0374,Furniture Product 374,Home & Furniture,Furniture,19172.32,28636.2,Metro Commerce
+PROD0375,Audio Product 375,Electronics,Audio,6925.61,10256.41,Metro Commerce
+PROD0376,Equipment Product 376,Sports,Equipment,3858.08,5367.96,Vertex Traders
+PROD0377,Furniture Product 377,Home & Furniture,Furniture,12977.86,20647.17,Nova Retail
+PROD0378,Audio Product 378,Electronics,Audio,29163.79,38734.61,Prime Distributors
+PROD0379,Decor Product 379,Home & Furniture,Decor,10914.01,15082.4,Vertex Traders
+PROD0380,Furniture Product 380,Home & Furniture,Furniture,15155.91,21804.98,Urban Supply Co
+PROD0381,Haircare Product 381,Beauty,Haircare,9759.58,13069.47,Vertex Traders
+PROD0382,Audio Product 382,Electronics,Audio,21695.03,31226.84,BluePeak Wholesale
+PROD0383,Storage Product 383,Home & Furniture,Storage,20162.55,24335.54,Prime Distributors
+PROD0384,Fitness Product 384,Sports,Fitness,22663.49,27613.22,Urban Supply Co
+PROD0385,Skincare Product 385,Beauty,Skincare,22551.19,29216.87,Prime Distributors
+PROD0386,Makeup Product 386,Beauty,Makeup,29632.2,41203.6,Nova Retail
+PROD0387,Accessories Product 387,Electronics,Accessories,29321.51,44734.91,Urban Supply Co
+PROD0388,Storage Product 388,Home & Furniture,Storage,24507.06,32452.29,Urban Supply Co
+PROD0389,Footwear Product 389,Fashion,Footwear,14271.88,20297.45,Metro Commerce
+PROD0390,Laptops Product 390,Electronics,Laptops,9712.21,13329.27,Metro Commerce
+PROD0391,Audio Product 391,Electronics,Audio,9043.71,12244.75,Metro Commerce
+PROD0392,Outdoor Product 392,Sports,Outdoor,10239.61,16020.41,Urban Supply Co
+PROD0393,Equipment Product 393,Sports,Equipment,21628.79,32491.08,Vertex Traders
+PROD0394,Fitness Product 394,Sports,Fitness,29694.63,44086.09,Vertex Traders
+PROD0395,Makeup Product 395,Beauty,Makeup,17218.77,21219.25,Prime Distributors
+PROD0396,Footwear Product 396,Fashion,Footwear,707.04,1071.08,Urban Supply Co
+PROD0397,Furniture Product 397,Home & Furniture,Furniture,4643.19,6750.22,Metro Commerce
+PROD0398,Fitness Product 398,Sports,Fitness,22930.28,35066.06,Vertex Traders
+PROD0399,Women Product 399,Fashion,Women,27023.22,35976.47,BluePeak Wholesale
+PROD0400,Accessories Product 400,Electronics,Accessories,23603.17,31911.5,Prime Distributors
+PROD0401,Women Product 401,Fashion,Women,24164.51,38119.89,Vertex Traders
+PROD0402,Furniture Product 402,Home & Furniture,Furniture,7892.3,10847.48,BluePeak Wholesale
+PROD0403,Decor Product 403,Home & Furniture,Decor,5201.11,6489.2,Prime Distributors
+PROD0404,Accessories Product 404,Electronics,Accessories,15847.11,24508.97,Nova Retail
+PROD0405,Skincare Product 405,Beauty,Skincare,11957.68,14411.7,BluePeak Wholesale
+PROD0406,Fragrance Product 406,Beauty,Fragrance,29382.4,38409.25,BluePeak Wholesale
+PROD0407,Kitchen Product 407,Home & Furniture,Kitchen,28325.2,36432.84,Nova Retail
+PROD0408,Mobiles Product 408,Electronics,Mobiles,14169.57,18314.3,Prime Distributors
+PROD0409,Kitchen Product 409,Home & Furniture,Kitchen,25413.99,35518.22,Urban Supply Co
+PROD0410,Fragrance Product 410,Beauty,Fragrance,4903.19,6945.88,Prime Distributors
+PROD0411,Skincare Product 411,Beauty,Skincare,24049.91,33212.85,Urban Supply Co
+PROD0412,Audio Product 412,Electronics,Audio,9997.73,15170.79,Urban Supply Co
+PROD0413,Equipment Product 413,Sports,Equipment,16262.9,22003.94,BluePeak Wholesale
+PROD0414,Mobiles Product 414,Electronics,Mobiles,11900.48,18148.3,BluePeak Wholesale
+PROD0415,Women Product 415,Fashion,Women,18490.62,25213.12,Urban Supply Co
+PROD0416,Kitchen Product 416,Home & Furniture,Kitchen,29055.45,39651.66,Nova Retail
+PROD0417,Sportswear Product 417,Sports,Sportswear,13351.29,18563.41,Urban Supply Co
+PROD0418,Laptops Product 418,Electronics,Laptops,20827.52,25227.79,Prime Distributors
+PROD0419,Makeup Product 419,Beauty,Makeup,7694.34,10223.05,BluePeak Wholesale
+PROD0420,Fragrance Product 420,Beauty,Fragrance,25406.23,35783.28,Metro Commerce
+PROD0421,Equipment Product 421,Sports,Equipment,9655.89,14074.1,Metro Commerce
+PROD0422,Kitchen Product 422,Home & Furniture,Kitchen,29904.52,37048.71,BluePeak Wholesale
+PROD0423,Furniture Product 423,Home & Furniture,Furniture,22420.9,28068.64,Nova Retail
+PROD0424,Accessories Product 424,Fashion,Accessories,7340.42,10679.13,Urban Supply Co
+PROD0425,Mobiles Product 425,Electronics,Mobiles,21118.58,33091.93,Metro Commerce
+PROD0426,Haircare Product 426,Beauty,Haircare,4432.77,6151.14,Prime Distributors
+PROD0427,Haircare Product 427,Beauty,Haircare,29319.73,46588.56,Nova Retail
+PROD0428,Outdoor Product 428,Sports,Outdoor,1946.46,2565.04,Nova Retail
+PROD0429,Skincare Product 429,Beauty,Skincare,2094.31,2722.48,Urban Supply Co
+PROD0430,Sportswear Product 430,Sports,Sportswear,14459.47,21062.42,Nova Retail
+PROD0431,Accessories Product 431,Fashion,Accessories,14278.33,20385.1,Prime Distributors
+PROD0432,Storage Product 432,Home & Furniture,Storage,19665.81,30302.93,Nova Retail
+PROD0433,Storage Product 433,Home & Furniture,Storage,27007.26,36955.15,BluePeak Wholesale
+PROD0434,Mobiles Product 434,Electronics,Mobiles,4332.37,6369.42,Metro Commerce
+PROD0435,Storage Product 435,Home & Furniture,Storage,13148.66,16714.08,Nova Retail
+PROD0436,Fitness Product 436,Sports,Fitness,6259.8,9858.95,Nova Retail
+PROD0437,Kitchen Product 437,Home & Furniture,Kitchen,21653.27,33991.75,Nova Retail
+PROD0438,Makeup Product 438,Beauty,Makeup,20103.04,27163.07,Urban Supply Co
+PROD0439,Men Product 439,Fashion,Men,20552.85,26101.38,Metro Commerce
+PROD0440,Accessories Product 440,Electronics,Accessories,14918.06,21931.59,Urban Supply Co
+PROD0441,Laptops Product 441,Electronics,Laptops,17865.77,23320.14,Metro Commerce
+PROD0442,Audio Product 442,Electronics,Audio,8533.6,11981.16,BluePeak Wholesale
+PROD0443,Decor Product 443,Home & Furniture,Decor,3149.46,4468.77,Urban Supply Co
+PROD0444,Decor Product 444,Home & Furniture,Decor,12692.88,15978.29,Vertex Traders
+PROD0445,Laptops Product 445,Electronics,Laptops,3459.33,5132.46,Urban Supply Co
+PROD0446,Women Product 446,Fashion,Women,14137.57,22250.45,Urban Supply Co
+PROD0447,Accessories Product 447,Electronics,Accessories,16223.05,19534.39,Nova Retail
+PROD0448,Accessories Product 448,Electronics,Accessories,23888.8,29381.52,Prime Distributors
+PROD0449,Equipment Product 449,Sports,Equipment,4149.02,5010.96,Vertex Traders
+PROD0450,Equipment Product 450,Sports,Equipment,14521.97,19808.59,Prime Distributors
+PROD0451,Decor Product 451,Home & Furniture,Decor,2101.03,2834.17,Urban Supply Co
+PROD0452,Women Product 452,Fashion,Women,29477.27,46810.63,Nova Retail
+PROD0453,Furniture Product 453,Home & Furniture,Furniture,2288.91,3107.57,Vertex Traders
+PROD0454,Men Product 454,Fashion,Men,11011.96,15254.13,Vertex Traders
+PROD0455,Haircare Product 455,Beauty,Haircare,7436.21,9760.68,Metro Commerce
+PROD0456,Fragrance Product 456,Beauty,Fragrance,18845.8,24744.28,BluePeak Wholesale
+PROD0457,Sportswear Product 457,Sports,Sportswear,19052.39,29790.0,Metro Commerce
+PROD0458,Mobiles Product 458,Electronics,Mobiles,7362.16,8890.9,Vertex Traders
+PROD0459,Fitness Product 459,Sports,Fitness,21147.73,32444.07,Prime Distributors
+PROD0460,Storage Product 460,Home & Furniture,Storage,23900.23,32560.8,Nova Retail
+PROD0461,Equipment Product 461,Sports,Equipment,1200.92,1458.85,Prime Distributors
+PROD0462,Sportswear Product 462,Sports,Sportswear,12373.0,18141.09,Urban Supply Co
+PROD0463,Equipment Product 463,Sports,Equipment,27030.68,42029.03,Urban Supply Co
+PROD0464,Furniture Product 464,Home & Furniture,Furniture,18320.47,29224.82,Metro Commerce
+PROD0465,Accessories Product 465,Fashion,Accessories,27035.94,34991.53,Prime Distributors
+PROD0466,Kitchen Product 466,Home & Furniture,Kitchen,18026.96,27209.08,Nova Retail
+PROD0467,Kitchen Product 467,Home & Furniture,Kitchen,12535.24,20027.03,Vertex Traders
+PROD0468,Mobiles Product 468,Electronics,Mobiles,28035.48,38631.44,Metro Commerce
+PROD0469,Skincare Product 469,Beauty,Skincare,12015.15,17367.95,Vertex Traders
+PROD0470,Fitness Product 470,Sports,Fitness,28113.25,40940.95,BluePeak Wholesale
+PROD0471,Skincare Product 471,Beauty,Skincare,12461.78,16871.23,BluePeak Wholesale
+PROD0472,Outdoor Product 472,Sports,Outdoor,8155.95,10073.54,Prime Distributors
+PROD0473,Accessories Product 473,Fashion,Accessories,14725.7,21658.58,Prime Distributors
+PROD0474,Storage Product 474,Home & Furniture,Storage,24355.4,30509.68,Metro Commerce
+PROD0475,Makeup Product 475,Beauty,Makeup,5513.61,7635.87,Vertex Traders
+PROD0476,Mobiles Product 476,Electronics,Mobiles,13286.48,17765.54,Vertex Traders
+PROD0477,Accessories Product 477,Fashion,Accessories,24783.59,37138.46,Nova Retail
+PROD0478,Women Product 478,Fashion,Women,12503.43,19666.44,BluePeak Wholesale
+PROD0479,Storage Product 479,Home & Furniture,Storage,2685.98,3718.48,BluePeak Wholesale
+PROD0480,Audio Product 480,Electronics,Audio,20752.15,32927.58,Nova Retail
+PROD0481,Decor Product 481,Home & Furniture,Decor,3410.5,4812.75,Urban Supply Co
+PROD0482,Fitness Product 482,Sports,Fitness,25995.85,35297.35,Urban Supply Co
+PROD0483,Women Product 483,Fashion,Women,7226.74,9514.46,Nova Retail
+PROD0484,Mobiles Product 484,Electronics,Mobiles,5402.92,6642.37,BluePeak Wholesale
+PROD0485,Furniture Product 485,Home & Furniture,Furniture,12454.6,18094.93,BluePeak Wholesale
+PROD0486,Kitchen Product 486,Home & Furniture,Kitchen,27588.68,42760.27,BluePeak Wholesale
+PROD0487,Storage Product 487,Home & Furniture,Storage,252.09,396.54,Metro Commerce
+PROD0488,Equipment Product 488,Sports,Equipment,27814.77,43739.9,Urban Supply Co
+PROD0489,Kitchen Product 489,Home & Furniture,Kitchen,17030.48,26667.92,Urban Supply Co
+PROD0490,Laptops Product 490,Electronics,Laptops,4755.83,6094.6,BluePeak Wholesale
+PROD0491,Women Product 491,Fashion,Women,3773.88,4932.67,Nova Retail
+PROD0492,Haircare Product 492,Beauty,Haircare,4088.02,5059.06,Prime Distributors
+PROD0493,Equipment Product 493,Sports,Equipment,1503.94,2045.96,BluePeak Wholesale
+PROD0494,Outdoor Product 494,Sports,Outdoor,7669.13,11322.1,BluePeak Wholesale
+PROD0495,Mobiles Product 495,Electronics,Mobiles,17838.82,27574.75,Urban Supply Co
+PROD0496,Fragrance Product 496,Beauty,Fragrance,17659.11,25477.37,Nova Retail
+PROD0497,Footwear Product 497,Fashion,Footwear,1596.41,2535.06,Urban Supply Co
+PROD0498,Mobiles Product 498,Electronics,Mobiles,23257.8,35037.18,Metro Commerce
+PROD0499,Outdoor Product 499,Sports,Outdoor,13824.36,17502.31,Metro Commerce
+PROD0500,Equipment Product 500,Sports,Equipment,5004.33,7475.55,Prime Distributors

@@ -1,0 +1,29 @@
+# DecisionIQ
+
+## Problem Statement
+
+Modern businesses generate large amounts of data across sales,
+customers, products, marketing and operations.
+
+However, business managers often depend on analysts and dashboards
+to understand why KPIs change.
+
+DecisionIQ is an AI-powered decision intelligence platform that allows
+business users to analyse company performance using natural language.
+
+The system will combine SQL, analytics, machine learning and generative
+AI to identify trends, investigate KPI changes and recommend business
+actions.
+
+## Core Business Questions
+
+1. How are revenue and profit changing over time?
+2. Which products and categories are most profitable?
+3. Which customer segments generate the most value?
+4. Which marketing channels produce the highest ROI?
+5. Are discounts improving sales or damaging profitability?
+6. What factors contribute to product returns?
+7. Where are customers dropping out of the purchase funnel?
+8. Which unusual changes or anomalies require attention?
+9. What is expected revenue for the upcoming period?
+10. What happens to profit if pricing or discounts change?
